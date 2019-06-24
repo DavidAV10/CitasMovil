@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a8251b00222caf3b41f62424a9db596\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9286a7b83f007543cc1ecc4a56af6486\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25d9e96d925f2c2050fcf82a8efa14f1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\790d3e3adb1bd6271b5c4832049dee57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e370c7d8490a7d6be29c435329228cf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\9e072ccdde4a485558e8075e7f74d7f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fd7c47139241d6fee3da90f0a3b9bce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\24bd2e2c318f280996c857f8b56d688d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8d8429ccf17e746923060c97a6309e17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\97a85894fab0aaab1b957f8185613e37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e0b8bb530bc2ea24f75cb723c5d3f1d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\31e5ff7e92360a2db93f2d7166537fa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\32145afa4ee49baa3c298719ce93ac19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9d1c2ff0d5cc755bfb0fe98d704420d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\668cc9bf3e284e2da8117b471bbd704d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f0a4bd4aa7c1b7fdb755a807bd9e65d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\efc0b55763c354fd370bc00522bd294c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3cfd016920ee102675f63b9549e5373f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e6e203831666cc04e1bffad831c4b551\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\710ea15329e4cecbee099cd13f1dd0cf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\de0604d61378f287467f0d2350baac8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\05a2afd272813f4e883a727920535ca9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb9d17a641f7e63151789c853f0d6ecc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\33cfc21e09ee31d23cc270e262f39e7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8f14711b1978e57b5ca0c8bdfd83a962\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9d047055777f0bfee2a5e1b0426fade9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f705cee95dd096ff6f14513e69479493\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f4ad5ca0bcaf41b922db7bc919f654e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fed4fdaaed9942cde97ca860112dfa46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d1b17be704f94209a19800bc675fce0d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fde5a75199e95fdeedefb889b99f18ba\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a8251b00222caf3b41f62424a9db596\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a8251b00222caf3b41f62424a9db596\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25d9e96d925f2c2050fcf82a8efa14f1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25d9e96d925f2c2050fcf82a8efa14f1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e6e203831666cc04e1bffad831c4b551\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e6e203831666cc04e1bffad831c4b551\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\710ea15329e4cecbee099cd13f1dd0cf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\710ea15329e4cecbee099cd13f1dd0cf\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e6e203831666cc04e1bffad831c4b551\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.aplavanzadas.medicalcenterappointment.MainActivity
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.aplavanzadas.medicalcenterappointment.PerfilMedicoActivity
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:24:9-58
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:24:19-55
+activity#com.aplavanzadas.medicalcenterappointment.PerfilUsuarioActivity
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:25:19-56
+activity#com.aplavanzadas.medicalcenterappointment.CitasRegistradasDoctorActivity
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:26:19-65
+activity#com.aplavanzadas.medicalcenterappointment.CitasAgendadasUsuarioActivity
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:27:9-67
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:27:19-64
+activity#com.aplavanzadas.medicalcenterappointment.RegistroActivity
+ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml:28:19-51
+uses-sdk
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a8251b00222caf3b41f62424a9db596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a8251b00222caf3b41f62424a9db596\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9286a7b83f007543cc1ecc4a56af6486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9286a7b83f007543cc1ecc4a56af6486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25d9e96d925f2c2050fcf82a8efa14f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\25d9e96d925f2c2050fcf82a8efa14f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\790d3e3adb1bd6271b5c4832049dee57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\790d3e3adb1bd6271b5c4832049dee57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e370c7d8490a7d6be29c435329228cf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e370c7d8490a7d6be29c435329228cf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\9e072ccdde4a485558e8075e7f74d7f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\9e072ccdde4a485558e8075e7f74d7f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fd7c47139241d6fee3da90f0a3b9bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8fd7c47139241d6fee3da90f0a3b9bce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\24bd2e2c318f280996c857f8b56d688d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\24bd2e2c318f280996c857f8b56d688d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8d8429ccf17e746923060c97a6309e17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8d8429ccf17e746923060c97a6309e17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\97a85894fab0aaab1b957f8185613e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\97a85894fab0aaab1b957f8185613e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e0b8bb530bc2ea24f75cb723c5d3f1d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e0b8bb530bc2ea24f75cb723c5d3f1d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\31e5ff7e92360a2db93f2d7166537fa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\31e5ff7e92360a2db93f2d7166537fa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\32145afa4ee49baa3c298719ce93ac19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\32145afa4ee49baa3c298719ce93ac19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9d1c2ff0d5cc755bfb0fe98d704420d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9d1c2ff0d5cc755bfb0fe98d704420d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\668cc9bf3e284e2da8117b471bbd704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\668cc9bf3e284e2da8117b471bbd704d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f0a4bd4aa7c1b7fdb755a807bd9e65d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f0a4bd4aa7c1b7fdb755a807bd9e65d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\efc0b55763c354fd370bc00522bd294c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\efc0b55763c354fd370bc00522bd294c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3cfd016920ee102675f63b9549e5373f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3cfd016920ee102675f63b9549e5373f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e6e203831666cc04e1bffad831c4b551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e6e203831666cc04e1bffad831c4b551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\710ea15329e4cecbee099cd13f1dd0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\710ea15329e4cecbee099cd13f1dd0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\de0604d61378f287467f0d2350baac8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\de0604d61378f287467f0d2350baac8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\05a2afd272813f4e883a727920535ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\05a2afd272813f4e883a727920535ca9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb9d17a641f7e63151789c853f0d6ecc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eb9d17a641f7e63151789c853f0d6ecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\33cfc21e09ee31d23cc270e262f39e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\33cfc21e09ee31d23cc270e262f39e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8f14711b1978e57b5ca0c8bdfd83a962\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\8f14711b1978e57b5ca0c8bdfd83a962\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9d047055777f0bfee2a5e1b0426fade9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9d047055777f0bfee2a5e1b0426fade9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f705cee95dd096ff6f14513e69479493\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f705cee95dd096ff6f14513e69479493\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f4ad5ca0bcaf41b922db7bc919f654e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f4ad5ca0bcaf41b922db7bc919f654e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fed4fdaaed9942cde97ca860112dfa46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\fed4fdaaed9942cde97ca860112dfa46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d1b17be704f94209a19800bc675fce0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d1b17be704f94209a19800bc675fce0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fde5a75199e95fdeedefb889b99f18ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\JuanPablo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fde5a75199e95fdeedefb889b99f18ba\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JuanPablo\AndroidStudioProjects\MedicalCenterAppointment\app\src\main\AndroidManifest.xml
